@@ -6,6 +6,9 @@
  
 
   ## 🚀 Getting Started
+
+   <img src ="https://github.com/Ahmedyehia122/Talkative/assets/142153775/8c7103cd-1cd6-4e2f-98e3-16f8202f5d9d"  >
+   
   <br/>
  
   ## 📸 Screen Record
